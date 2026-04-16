@@ -14,7 +14,7 @@
 - 🌱 I’m learning **Advanced React, Node.js & System Design**
 - 👯 I’m looking to collaborate on **real-world impactful projects**
 - 💬 Ask me about **Web Development, Maps, UI/UX**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **teshomeworku96@gmail.com **
 - ⚡ Fun fact: *I love building solutions for real problems in Ethiopia 🇪🇹*
 
 ---
